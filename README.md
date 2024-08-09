@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant Ranjan Singh</h1>
+
 <h3 align="center">A dedicated developer hailing from the vibrant heart of India 🇮🇳</h3>
 
 
